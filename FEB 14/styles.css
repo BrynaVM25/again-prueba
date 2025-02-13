@@ -1,0 +1,40 @@
+html{
+    box-sizing: border-box;
+    margin: 0 ;
+    padding: 0;
+    background-color: #d7d9df;
+}
+main{
+    height: 670px;
+    background-image: url(./fotos/Mesa\ de\ trabajo\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    display: flex;
+    height: 480px ;
+}
+
+video{
+    margin:auto;
+    width: 330px;
+
+}
+
+.fecha{
+    height: 400px;
+    text-align: center;
+    color: #e22a28;
+}
+
+h2{
+    font-family: "Bright Marching", serif;
+    font-size: 30pt;
+    line-height: 20px;
+}
+
+.fecha p{
+
+    width: 340px;
+    text-align: center;
+}
